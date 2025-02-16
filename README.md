@@ -37,10 +37,10 @@ Implementation Steps:
 By emphasizing green energy generation and sustainable practices, SEEMA aims to create a thriving ecosystem that benefits both individual solar panel owners and the broader renewable energy market in India.
 
 UI:
-![WhatsApp Image 2025-02-16 at 12 54 22 PM](https://github.com/user-attachments/assets/039a1852-26a8-4e88-9cb6-2516574b0308)
-![WhatsApp Image 2025-02-16 at 12 54 23 PM](https://github.com/user-attachments/assets/7fdc1e34-d16d-47ae-ae6c-8c98f10deea7)
-![WhatsApp Image 2025-02-16 at 12 54 23 PM (1)](https://github.com/user-attachments/assets/8875475b-9418-439e-8666-dfb8f44812a6)
-![WhatsApp Image 2025-02-16 at 12 54 23 PM (2)](https://github.com/user-attachments/assets/af0c3527-71eb-4365-9a34-024265a8fcce)
+
+![Screenshot (568)](https://github.com/user-attachments/assets/5a7754f8-c04c-4e18-907a-ac0db2793986)
+
+
 
 
 
